@@ -1,3 +1,0 @@
-# portfolio
-
-source: `{{ page.path }}`
