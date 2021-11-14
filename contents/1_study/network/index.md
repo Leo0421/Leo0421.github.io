@@ -1,3 +1,0 @@
-# network
-
-source: `{{ page.path }}`

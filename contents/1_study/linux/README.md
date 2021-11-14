@@ -1,3 +1,0 @@
-# linux
-
-source: `{{ page.path }}`

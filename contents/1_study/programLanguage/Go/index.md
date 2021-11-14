@@ -1,3 +1,0 @@
-# Go
-
-source: `{{ page.path }}`

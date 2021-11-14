@@ -1,3 +1,0 @@
-# AI
-
-source: `{{ page.path }}`

@@ -1,3 +1,0 @@
-# tip
-
-source: `{{ page.path }}`

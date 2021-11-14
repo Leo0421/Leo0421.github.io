@@ -1,3 +1,0 @@
-# DB
-
-source: `{{ page.path }}`

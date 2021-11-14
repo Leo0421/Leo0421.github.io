@@ -1,3 +1,0 @@
-# C++
-
-source: `{{ page.path }}`
